@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/RobofriendsPWA/static/js/runtime~main.35934667.js"
   },
   {
-    "revision": "522cafd4a2bc62cc877a",
-    "url": "/RobofriendsPWA/static/js/main.008a11b6.chunk.js"
+    "revision": "0125481c3e89f8239607",
+    "url": "/RobofriendsPWA/static/js/main.e5427c70.chunk.js"
   },
   {
     "revision": "485529a148d04fd04b7d",
     "url": "/RobofriendsPWA/static/js/2.ab4a082b.chunk.js"
   },
   {
-    "revision": "522cafd4a2bc62cc877a",
+    "revision": "0125481c3e89f8239607",
     "url": "/RobofriendsPWA/static/css/main.5ce12b1c.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/RobofriendsPWA/static/css/2.06245324.chunk.css"
   },
   {
-    "revision": "9ef83d3e1570a26703d755cbff6203f4",
+    "revision": "9ed24dd7ea4bc3a340420b9038759d86",
     "url": "/RobofriendsPWA/index.html"
   }
 ];
