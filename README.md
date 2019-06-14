@@ -1,7 +1,5 @@
-# robofriends
-Tutorial for udemy course - React
-To run the project:
+# Robofriends PWA
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+This project was used to learn about accessibility and progressive web apps. It used googles lighthouse to audit performance, accessibility and PWA.
+
+It can be ran locally using `npm start`
